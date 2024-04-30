@@ -12,4 +12,4 @@ client.on("interactionCreate",(interaction)=>{
     interaction.reply("PONG!!!")
 })
 
-client.login("MTIzNDgxNDE2OTY4NjIxMjcxOQ.GTBOQj.R-fdv2RQYCjPQ0g0f2QOqw5_CdqlcH8YGE6F8s")
+client.login("token")
